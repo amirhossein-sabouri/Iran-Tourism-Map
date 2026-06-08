@@ -1,7 +1,7 @@
 🗺️ نقشه گردشگری ایران (Iran Tourism Map)
 
 
-![Uploading iran1.png…]()
+![تصویر نقشه به کار برده شده در پروژه](iran1.png)
 
 
 
@@ -22,20 +22,13 @@
 🗂️ ساختار پروژه
 text
 Iran-Tourism-Map/
-├── index.html          # صفحه اصلی نقشه
-├── css/
-│   └── style.css       # استایل‌های پروژه
-├── js/
-│   └── map.js          # منطق نقشه و تشخیص کلیک
-├── assets/
-│   └── images/
-│       └── iran-map.svg # نقشه وکتور ایران
+├── Html1.html          # صفحه اصلی نقشه       # استایل‌های پروژه         # منطق نقشه و تشخیص کلیک
+├──iran1.png # نقشه وکتور ایران
 └── README.md
 🛠️ تکنولوژی‌های استفاده شده
 HTML5: ساختار و چارچوب صفحه.
 CSS3: استایل‌بندی و طراحی واکنش‌گرا.
-JavaScript (Vanilla): منطق کلیک و مدیریت هدایت کاربر.
-SVG/Image Map: برای پیاده‌سازی نقشه تعاملی.
+
 📋 لیست استان‌های پشتیبانی شده
 تمامی ۳۱ استان ایران به صورت کامل پوشش داده شده‌اند:
 
@@ -59,7 +52,7 @@ SVG/Image Map: برای پیاده‌سازی نقشه تعاملی.
 🔧 نصب و اجرا
 bash
 # کلون کردن مخزن
-git clone https://github.com/your-username/Iran-Tourism-Map.git
+git clone https://github.com/amirhossein-sabouri/Iran-Tourism-Map.git
 
 # ورود به پوشه پروژه
 cd Iran-Tourism-Map
@@ -73,7 +66,7 @@ cd Iran-Tourism-Map
 تغییرات خود را در یک شاخه جدید اعمال کنید.
 یک Pull Request ارسال کنید.
 📞 ارتباط با من
-سازنده: [نام شما]
-ایمیل: [your-email@example.com]
-گیت‌هاب: [@your-username]
+سازنده: [امیرحسین صبوری خسروشاهی]
+ایمیل: [sabouriamirhossein9@gmail.com]
+گیت‌هاب: [@amirhossein-sabouri]
 ⭐ حمایت: اگر از این پروژه لذت بردید، لطفاً به آن Star ⭐ بدهید!
